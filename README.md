@@ -140,7 +140,7 @@ If there are more than 10 matches, refine your search term.
     -> Acme Holdings (ID: 67890)  [12 docs]
 
   Skipped (no org assigned):
-    - _HNTFB Public facing T&Cs
+    - _Public facing T&Cs
 
 Proceed with upload? (Y/N):
 ```
