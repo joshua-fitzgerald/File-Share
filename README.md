@@ -2,7 +2,9 @@
 # ITBoost to IT Glue Migration Script
 
 **File:** `Prepare-ITBoostForITGlue.ps1`
+
 **Platform:** Windows PowerShell 5.1+
+
 **Purpose:** Migrates document exports from ITBoost to IT Glue by fixing the UID-named HTML files, patching document titles, and either uploading directly via the IT Glue API or producing a ZIP for manual import.
 
 ---
